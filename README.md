@@ -9,7 +9,7 @@ I'm Aung Moe Thu, a passionate developer with a love for technology and innovati
 - 🎓 I’m a student with a focus on software development and IT projects.
 
 ## 💻 Projects
-- **MyChat Messaging Web App](https://github.com/AungMoeThuam/mychat-backend-server)**: A real-time chat application built with Express, MongoDB, and React.
+- **MyChat Messaging Web App (https://github.com/AungMoeThuam/mychat-backend-server): A real-time chat application built with Express, MongoDB, and React.
 
 ## 🛠️ Technologies & Tools
 - **Languages**: JavaScript, TypeScript, Java
