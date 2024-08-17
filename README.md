@@ -19,5 +19,7 @@ I'm Aung Moe Thu, a passionate developer with a love for technology and innovati
 - **Databases**: MongoDB, MySQL
 - **Cloud Platforms**: DigitalOcean, AWS
 
+## 📊 Most Used Languages
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungMoeThuam)](https://github.com/AungMoeThuam/github-readme-stats)
 ## 📫 How to Reach Me
 - Email: aungmoethu.2020.edu@gmail.com
