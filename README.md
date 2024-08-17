@@ -21,5 +21,7 @@ I'm Aung Moe Thu, a passionate developer with a love for technology and innovati
 
 ## 📊 Most Used Languages
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AungMoeThuam)](https://github.com/AungMoeThuam/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AungMoeThuam&theme=dark&layout=compact)
+
 ## 📫 How to Reach Me
 - Email: aungmoethu.2020.edu@gmail.com
